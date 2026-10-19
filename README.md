@@ -67,6 +67,10 @@ The core simulation is `src/urnloop.py`. It is vectorised over parameters and in
 - M. Gerstgrasser et al., *Is model collapse inevitable? Breaking the curse of recursion by accumulating real and synthetic data* (2024).
 - J. Perdomo, T. Zrnic, C. Mendler-Dünner, M. Hardt, *Performative prediction*, ICML (2020).
 
+## Acknowledgement
+
+The code and figures in this repository were written with the help of Claude (Anthropic); the model, analysis and open questions are my own.
+
 ## License
 
 MIT
